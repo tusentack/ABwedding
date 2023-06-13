@@ -27,14 +27,14 @@ a {
 
 /* Content Elements */
 body {
-    background: #F1F2E9;
-    color: #3C733F;
+    background: #D7E5F0;
+    color: #013349;
     text-align: center;
 }
 
 footer {
     margin:2rem;
-    color: #7BA65D;
+    color: #02557a;
 }
 
 img {
@@ -81,7 +81,7 @@ img {
     line-height:2;
 }
 #address {
-    color:#7BA65D
+    color:#02557a
 }
 /* NitPicky Stylings */
 
